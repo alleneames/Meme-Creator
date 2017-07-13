@@ -1,0 +1,53 @@
+.custom-header {
+    background-image: url("http://static6.businessinsider.com/image/55918b77ecad04a3465a0a63/nbc-fires-donald-trump-after-he-calls-mexicans-rapists-and-drug-runners.jpg");
+    color: white;
+    text-align: center;
+    background-position: 50% 20%;
+    background-size: cover;
+    
+}
+
+.image {
+    width: 100%;
+    height: 50vh;
+    margin-top: -20px; 
+    background-size: cover;
+    background-position: center;
+    border: width border-style color;
+
+}
+
+.top-text {
+    color: white;
+    text-align: center;
+}
+
+.bottom-text {
+    color: white;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+
+}
+
+input {
+    margin-bottom: 10px;
+    border: 2px solid black !important;
+}
+
+#btn {
+    text-align: center !important;
+}
+
+.footer {
+    text-align: center;
+    background-image: url("http://static6.businessinsider.com/image/55918b77ecad04a3465a0a63/nbc-fires-donald-trump-after-he-calls-mexicans-rapists-and-drug-runners.jpg");
+    background-position: 50% 80%;
+    background-size: cover;
+    padding: 30px 0 30px 0;
+    margin-top: 20px;
+}
+
